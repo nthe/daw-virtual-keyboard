@@ -1,7 +1,7 @@
 # Virtual Keyboard
 Zero-dependency DAW-like (Ableton/Bitwig style) virtual piano keyboard.
 
-![keyboard]("./assets/keyboard.png")
+![keyboard](./assets/keyboard.png)
 
 **A** to **L** represent white keys.
 
