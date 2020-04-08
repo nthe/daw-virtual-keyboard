@@ -1,8 +1,8 @@
 {
-  "name": "virtual-keyboard",
+  "name": "@nthe/daw-virtual-keyboard",
   "version": "1.0.0",
-  "description": "DAW-like (Ableton/Bitwig style) virtual piano VirtualVirtualKeyBoard.",
-  "main": "index.js",
+  "description": "DAW-like (Ableton/Bitwig style) virtual piano keyboard.",
+  "main": "src/index.js",
   "scripts": {
     "build": "tsc src/index.ts"
   },
@@ -13,6 +13,14 @@
     "piano",
     "browser"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nthe/daw-virutal-keyboard.git"
+  },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "homepage": "https://github.com/nthe/daw-virtual-keyboard#readme",
   "author": "jurajonuska@gmail.com",
   "license": "MIT"
 }
